@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "rekt",
+  "description": "rekt by @_2xAA",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.jpg",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+        "tabs"
+    ]
+}
